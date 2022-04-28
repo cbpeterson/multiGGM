@@ -43,4 +43,4 @@ Script to generate matrices similar to those used as input to Simulation 1
 Helper function to ensure that the random matrices generated as simulation
 input are in fact positive definite
 
-Please also see [[here](https://github.com/cbpeterson/scalable_multiGGM)] for a more scalable approach.
+Please also see [here](https://github.com/cbpeterson/scalable_multiGGM) for a more scalable approach.
