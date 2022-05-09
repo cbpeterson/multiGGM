@@ -1,7 +1,8 @@
 # multiGGM
 ## Bayesian inference of multiple Gaussian graphical models
 
-Author: Christine B. Peterson
+### Author: Christine B. Peterson
+
 Contact: cbpeterson@gmail.com
 
 The given Matlab files for Bayesian inference of multiple graphical models 
